@@ -72,13 +72,13 @@ const Work = () => {
               href="https://knightsbridgeliving.netlify.app/"
               rel="noopener noreferrer"
               target="_blank"
-            >
+            > */}
               <Image
                 fluid={knightsbridge.childImageSharp.fluid}
                 className="project__img"
                 alt="knightsbridge hero"
               />
-            </a> */}
+            {/* </a> */}
           </figure>
 
           <div className="project__info">
@@ -128,13 +128,13 @@ const Work = () => {
               href="https://traveler-tours.netlify.app/"
               rel="noopener noreferrer"
               target="_blank"
-            >
+            > */}
               <Image
                 fluid={traveler.childImageSharp.fluid}
                 className="project__img"
                 alt="traveler hero"
               />
-            </a> */}
+            {/* </a> */}
           </figure>
 
           <div className="project__info">
@@ -184,13 +184,13 @@ const Work = () => {
               href="https://bloggingcoder.com/"
               rel="noopener noreferrer"
               target="_blank"
-            >
+            > */}
               <Image
                 fluid={bloggingcoder.childImageSharp.fluid}
                 className="project__img"
                 alt="BloggingCoder hero"
               />
-            </a> */}
+            {/* </a> */}
           </figure>
 
           <div className="project__info">
@@ -241,13 +241,13 @@ const Work = () => {
               href="http://flavoroso.herokuapp.com/"
               rel="noopener noreferrer"
               target="_blank"
-            >
+            > */}
               <Image
                 fluid={flavoroso.childImageSharp.fluid}
                 className="project__img"
                 alt="Flavoroso hero"
               />
-            </a> */}
+            {/* </a> */}
           </figure>
 
           <div className="project__info">
@@ -298,13 +298,13 @@ const Work = () => {
               href="https://tmdb-react-v2.netlify.com/"
               rel="noopener noreferrer"
               target="_blank"
-            >
+            > */}
               <Image
                 fluid={moviedb.childImageSharp.fluid}
                 className="project__img"
                 alt="TMDB hero"
               />
-            </a> */}
+            {/* </a> */}
           </figure>
 
           <div className="project__info">
@@ -355,13 +355,13 @@ const Work = () => {
               href="https://www.casatoroholidayspain.com/"
               rel="noopener noreferrer"
               target="_blank"
-            >
+            > */}
               <Image
                 fluid={casatoro.childImageSharp.fluid}
                 className="project__img"
                 alt="casatoro hero"
               />
-            </a> */}
+            {/* </a> */}
           </figure>
 
           <div className="project__info">
