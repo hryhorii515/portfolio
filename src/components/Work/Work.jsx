@@ -294,17 +294,17 @@ const Work = () => {
 
         <div className="project movie-project">
           <figure className="project__img-wrapper">
-            <a
-            //   href="https://tmdb-react-v2.netlify.com/"
-            //   rel="noopener noreferrer"
-            //   target="_blank"
-            // >
-            //   <Image
-            //     fluid={moviedb.childImageSharp.fluid}
-            //     className="project__img"
-            //     alt="TMDB hero"
-            //   />
-            // </a>
+            {/* <a
+              href="https://tmdb-react-v2.netlify.com/"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              <Image
+                fluid={moviedb.childImageSharp.fluid}
+                className="project__img"
+                alt="TMDB hero"
+              />
+            </a> */}
           </figure>
 
           <div className="project__info">
