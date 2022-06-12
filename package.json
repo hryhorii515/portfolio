@@ -1,0 +1,42 @@
+{
+  "name": "Personal-Portfolio",
+  "private": true,
+  "description": "Personal Website made with Gatsby",
+  "version": "0.1.0",
+  "license": "MIT",
+  "scripts": {
+    "build": "gatsby build",
+    "develop": "gatsby develop",
+    "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
+    "start": "npm run develop",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean",
+    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
+  },
+  "dependencies": {
+    "gatsby": "^2.18.12",
+    "gatsby-image": "^2.2.39",
+    "gatsby-plugin-react-helmet": "^3.6.0",
+    "gatsby-plugin-sass": "^2.1.26",
+    "gatsby-plugin-sharp": "^2.4.0",
+    "gatsby-plugin-smoothscroll": "^1.0.4",
+    "gatsby-source-filesystem": "^2.1.46",
+    "gatsby-transformer-sharp": "^2.5.3",
+    "node-sass": "^4.13.0",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "react-headroom": "^3.0.0",
+    "react-helmet": "^6.1.0",
+    "react-icons": "^3.8.0"
+  },
+  "devDependencies": {
+    "prettier": "^1.19.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alexticovschi/portfolio"
+  },
+  "bugs": {
+    "url": "https://github.com/gatsbyjs/gatsby/issues"
+  }
+}
