@@ -68,7 +68,7 @@ const Work = () => {
       <div className="work__wrapper">
         <div className="project knightsbridge-project">
           <figure className="project__img-wrapper">
-            <a
+            {/* <a
               href="https://knightsbridgeliving.netlify.app/"
               rel="noopener noreferrer"
               target="_blank"
@@ -78,7 +78,7 @@ const Work = () => {
                 className="project__img"
                 alt="knightsbridge hero"
               />
-            </a>
+            </a> */}
           </figure>
 
           <div className="project__info">
@@ -124,7 +124,7 @@ const Work = () => {
 
         <div className="project traveler-project">
           <figure className="project__img-wrapper">
-            <a
+            {/* <a
               href="https://traveler-tours.netlify.app/"
               rel="noopener noreferrer"
               target="_blank"
@@ -134,7 +134,7 @@ const Work = () => {
                 className="project__img"
                 alt="traveler hero"
               />
-            </a>
+            </a> */}
           </figure>
 
           <div className="project__info">
@@ -180,7 +180,7 @@ const Work = () => {
 
         <div className="project bloggingcoder-project">
           <figure className="project__img-wrapper">
-            <a
+            {/* <a
               href="https://bloggingcoder.com/"
               rel="noopener noreferrer"
               target="_blank"
@@ -190,7 +190,7 @@ const Work = () => {
                 className="project__img"
                 alt="BloggingCoder hero"
               />
-            </a>
+            </a> */}
           </figure>
 
           <div className="project__info">
@@ -237,7 +237,7 @@ const Work = () => {
 
         <div className="project flavoroso-project">
           <figure className="project__img-wrapper">
-            <a
+            {/* <a
               href="http://flavoroso.herokuapp.com/"
               rel="noopener noreferrer"
               target="_blank"
@@ -247,7 +247,7 @@ const Work = () => {
                 className="project__img"
                 alt="Flavoroso hero"
               />
-            </a>
+            </a> */}
           </figure>
 
           <div className="project__info">
@@ -295,16 +295,16 @@ const Work = () => {
         <div className="project movie-project">
           <figure className="project__img-wrapper">
             <a
-              href="https://tmdb-react-v2.netlify.com/"
-              rel="noopener noreferrer"
-              target="_blank"
-            >
-              <Image
-                fluid={moviedb.childImageSharp.fluid}
-                className="project__img"
-                alt="TMDB hero"
-              />
-            </a>
+            //   href="https://tmdb-react-v2.netlify.com/"
+            //   rel="noopener noreferrer"
+            //   target="_blank"
+            // >
+            //   <Image
+            //     fluid={moviedb.childImageSharp.fluid}
+            //     className="project__img"
+            //     alt="TMDB hero"
+            //   />
+            // </a>
           </figure>
 
           <div className="project__info">
@@ -351,7 +351,7 @@ const Work = () => {
 
         <div className="project casatoro-project">
           <figure className="project__img-wrapper">
-            <a
+            {/* <a
               href="https://www.casatoroholidayspain.com/"
               rel="noopener noreferrer"
               target="_blank"
@@ -361,7 +361,7 @@ const Work = () => {
                 className="project__img"
                 alt="casatoro hero"
               />
-            </a>
+            </a> */}
           </figure>
 
           <div className="project__info">
